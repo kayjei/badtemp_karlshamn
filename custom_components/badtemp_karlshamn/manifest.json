@@ -1,0 +1,8 @@
+{
+  "domain": "badtemp_karlshamn",
+  "name": "Water Temperature for Karlshamn Swim Areas",
+  "documentation": "https://github.com/kayjei/badtemp_karlshamn",
+  "dependencies": [],
+  "codeowners": ["kayjei"],
+  "requirements": ["requests","lxml","bs4"]
+}
